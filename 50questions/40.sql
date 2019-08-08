@@ -1,0 +1,1 @@
+select sid, sname,(2019-year(sage)) as age from student;
